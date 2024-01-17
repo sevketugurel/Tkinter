@@ -1,0 +1,29 @@
+Turkey, Asia, 81.6, 302535
+United States, North America, 331.0, 9833517
+Brazil, South America, 209.3, 8515767
+India, Asia, 1380.0, 3287263
+South Africa, Africa, 59.3, 1220817
+Australia, Australia/Oceania, 25.5, 7692024
+France, Europe, 67.1, 551695
+Canada, North America, 38.0, 9976140
+China, Asia, 1444.0, 9596961
+Russia, Europe, 146.6, 17098242
+Mexico, North America, 126.2, 1964375
+Argentina, South America, 44.0, 1068302
+Germany, Europe, 83.2, 357022
+Japan, Asia, 125.5, 377975
+Nigeria, Africa, 206.1, 923768
+Saudi Arabia, Asia, 34.2, 2149690
+United Kingdom, Europe, 67.0, 243610
+Indonesia, Asia, 273.5, 1904569
+Egypt, Africa, 104.4, 1002450
+Italy, Europe, 60.4, 301340
+South Korea, Asia, 51.8, 100210
+Pakistan, Asia, 225.2, 881913
+Colombia, South America, 51.1, 1141748
+Spain, Europe, 46.8, 505990
+Iran, Asia, 83.9, 1648195
+Vietnam, Asia, 97.3, 331212
+Thailand, Asia, 69.8, 513120
+Algeria, Africa, 40.4, 2381741
+Poland, Europe, 38.3, 312696

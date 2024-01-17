@@ -1,0 +1,20 @@
+Tıp, Fizik, Öğr. Gör. Elif Aydın
+Hukuk, İşletme, Yrd. Doç. Dr. Mehmet Aksoy
+Mühendislik, Kimya, Prof. Dr. Ahmet Yılmaz
+Tıp, Makine Mühendisliği, Doç. Dr. Ayşe Demir
+Hukuk, Psikoloji, Yrd. Doç. Dr. Mehmet Aksoy
+İnsan ve Toplum Bilimleri, Bilgisayar Mühendisliği, Öğr. Gör. Elif Aydın
+İktisat, Kimya, Dr. Zeynep Can
+Edebiyat, İşletme, Yrd. Doç. Dr. Mehmet Aksoy
+Edebiyat, İşletme, Öğr. Gör. Elif Aydın
+Mühendislik, Kimya, Doç. Dr. Ayşe Demir
+Edebiyat, Fizik, Doç. Dr. Ayşe Demir
+Fen Bilimleri, İşletme, Yrd. Doç. Dr. Mehmet Aksoy
+Edebiyat, Psikoloji, Dr. Zeynep Can
+İktisat, İşletme, Öğr. Gör. Elif Aydın
+Hukuk, Kimya, Doç. Dr. Ayşe Demir
+İktisat, Makine Mühendisliği, Dr. Zeynep Can
+Tıp, Makine Mühendisliği, Öğr. Gör. Elif Aydın
+Hukuk, Bilgisayar Mühendisliği, Dr. Zeynep Can
+Mühendislik, İşletme, Yrd. Doç. Dr. Mehmet Aksoy
+Hukuk, Makine Mühendisliği, Dr. Zeynep Can

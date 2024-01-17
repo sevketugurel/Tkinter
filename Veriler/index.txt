@@ -1,0 +1,5 @@
+bu:1 
+sinav:1 
+gayet:1 
+güzel:1 
+bir:1 
